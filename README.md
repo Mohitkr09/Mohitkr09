@@ -55,6 +55,18 @@ Multi-agent commerce platform for product evaluation, policy-based pricing, risk
 
 **Tech:** React.js, FastAPI, PostgreSQL, SQLAlchemy, LangGraph, Razorpay
 
+### 🎬 Movie Ticket Booking Web Application
+
+A full-stack movie ticket booking platform that integrates movie discovery, ticket booking workflows, and personalized movie recommendations to improve the movie-watching experience.
+
+- 🎥 Browse movies and explore movie details using the TMDB API.
+- 🎟️ Book movie tickets through an interactive booking workflow.
+- 🤖 Generate personalized movie recommendations using a Python Flask recommendation service with TF-IDF and cosine similarity.
+- ⚡ Build a responsive user interface and connect frontend features with backend APIs.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, TMDB API, Python, Flask, Scikit-learn
+
+
 ### 🧠 MindCare — Mental Health Journal & Chatbot
 Full-stack journaling and chatbot application with AI-powered conversational support and personal journal features.
 
